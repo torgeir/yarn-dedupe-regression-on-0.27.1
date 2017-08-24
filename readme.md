@@ -1,5 +1,7 @@
 Repository to reproduce a possible dedupe regression between 0.27.0 and 0.27.1
 
+**Edit: This was not a bug, pickadate should be using `peerDependencies` for jquery, not `dependencies`**
+
 # 0.27.0
 
 ```
